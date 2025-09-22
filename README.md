@@ -14,7 +14,7 @@ The project implements four fundamental search algorithms:
 1. **Depth-First Search (DFS)** - Explores the deepest nodes first using a stack-based approach
 2. **Breadth-First Search (BFS)** - Explores nodes level by level using a queue-based approach
 3. **Uniform Cost Search (UCS)** - Finds the lowest-cost path using a priority queue ordered by path cost
-4. **A* Search** - Combines path cost with heuristic estimates for optimal and efficient pathfinding
+4. **A-star Search** - Combines path cost with heuristic estimates for optimal and efficient pathfinding
 
 Each algorithm follows the same general structure:
 - Maintains a frontier of unexplored states
